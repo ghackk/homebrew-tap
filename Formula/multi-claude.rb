@@ -1,8 +1,8 @@
 class MultiClaude < Formula
   desc "Run multiple Claude CLI accounts with shared settings and plugins"
   homepage "https://github.com/ghackk/claude-multi-account"
-  url "https://github.com/ghackk/claude-multi-account/archive/refs/tags/v1.0.17.tar.gz"
-  sha256 "b60c8388fd2752ea008b89ce6f1c545d795382911eb6d0a062538ded5c964e62"
+  url "https://github.com/ghackk/claude-multi-account/archive/refs/tags/v1.0.18.tar.gz"
+  sha256 "4ef3798c98d0438f36210118235d24b2ebcc213cb79d939e5fb1ec85d01f1e9a"
   license "MIT"
 
   head "https://github.com/ghackk/claude-multi-account.git", branch: "master"
